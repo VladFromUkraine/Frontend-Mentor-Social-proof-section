@@ -150,14 +150,14 @@ display: inline-block;
 @media screen and (max-width:600px) {
   .grid-container{
     display: grid;
-    width: 290px;
+    width: 310px;
     margin: auto;
     margin-top: 20px;
     column-gap: 0px;
     row-gap: 20px;
   }
   .grid-item{
-    width: 290px;
+    width: 310px;
   }
   #first{
   grid-area: 1 / 1 / 2 / 6;
