@@ -151,7 +151,8 @@ display: inline-block;
   .grid-container{
     display: grid;
     width: 290px;
-    margin: 10px 10px 0 10px;
+    margin: auto;
+    margin-top: 20px;
     column-gap: 0px;
     row-gap: 20px;
   }
